@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKHILRAVEENDRAN-AR
+- 👋 Hi, I’m AKHIL R aka AR
 - 👀 I’m interested in python
 - 🌱 I’m currently learning more about python
 - 📫 reach me akhilraveendran.ar@gmail.com
