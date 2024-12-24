@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning more about python
 - 📫 reach me akhilraveendran.ar@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He,Him
 
 <!---
 AKHILRAVEENDRAN-AR/AKHILRAVEENDRAN-AR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
